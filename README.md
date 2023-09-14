@@ -41,3 +41,10 @@ Vậy sau khi chuyến hàng hoàn tất thì sao, chuyện gì xảy ra với k
 Và đây chính là tiền thân của bảo hiểm. Thời nay, bảo hiểm được định nghĩa là một hoạt động mà qua đó một _cá nhân có quyền được hưởng trợ cấp bảo hiểm nhờ vào một khoản đóng góp cho mình hoặc cho bên thứ 3 trong trường hợp xảy ra rủi ro. Khoản trợ cấp này do một tổ chức trả, tổ chức này có trách nhiệm đối với toàn bộ các rủi ro và đền bù các thiệt hại._
 
 Câu chuyện lịch sử ở Rome có điểm khác là thay vì “đóng góp” một khoản tiền để được hưởng trợ cấp thì thời đó người ta sẽ “đi vay”, dùng khoản vay đó như một vật làm tin để có được sự đảm bảo cho hàng hóa, tính mạng của mình. Vào khoảng thời Trung cổ Thế kỷ 14, tại Genoa, bảo hiểm bắt đầu được tách ra khỏi các khoản vay và dần mang hình hài giống với bảo hiểm thời nay.
+
+---
+> Key take-away (tl;dr, dài quá hông đọc)
+> -Bảo hiểm xuất phát điểm từ một loại hợp đồng cho vay dùng trong giao thông đường biển, trong đó người đứng ra vay là chủ tàu thuyền.
+> - Khoản vay được sử dụng để chi trả cho các trang thiết bị, chi phí sửa chữa tàu thuyền và được coi là một khoản ứng trước để đảm bảo an toàn cho hàng hóa cũng như người trên thuyền
+> - Khoản vay chỉ được thanh toán cho chủ nợ khi hàng hóa được vận chuyển hoàn tất và tàu thuyền + con người về đến nơi an toàn
+
