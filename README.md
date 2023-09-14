@@ -12,3 +12,19 @@ Có nhiều nguyên nhân giải thích cho sự chênh lệch lớn này: do ch
 ### Bài viết này dành cho ai?
 - Những người chưa biết và chưa hiểu về bảo hiểm
 - Những người chưa có thiện cảm về bảo hiểm
+
+👥 Để mô tả một xíu về cách mình hình dung 2 nhóm người đọc mà mình hướng tới thì bạn có thể xem nhanh qua bảng dưới đây:
+
+<TBU cái bảng>
+
+### Mục đích của bài viết này là gì?
+Mình viết bài này với mong muốn sau khi đọc xong, người đọc sẽ:
+- Hiểu tại sao con người lại phát minh ra bảo hiểm
+- Hiểu được định nghĩa chung về bảo hiểm truyền thống và insurtech (insurtech là gì thì lát đọc mình nói cho nhé)
+- Nắm được một số thông tin chính về tiềm năng phát triển của ngành bảo hiểm truyền thống và insurtech
+- Nắm được một số thuật ngữ cơ bản về bảo hiểm
+
+## Table of content
+1. Industry history: Tổng quan về bảo hiểm và lịch sử phát triển của ngành bảo hiểm
+1. Insurtech market: Ngành bảo hiểm ở Việt Nam và sự xuất hiện của Insurtech
+1. Essentiel terms: Thuật ngữ “ngành”
