@@ -7,3 +7,8 @@ Có nhiều nguyên nhân giải thích cho sự chênh lệch lớn này: do ch
 
 🛑 Nhưng dừng lại một chút, bài viết này muốn chỉ ra cho các bạn thấy được tại sao con người lại phát minh và cần tới bảo hiểm, cũng như xu hướng phát triển hiện nay của bảo hiểm là gì. 
 Đừng chuyển kênh nhé, tôi sẽ trở lại với các bạn sau phần quảng cáo 😀
+
+## Read me first 😚
+### Bài viết này dành cho ai?
+- Những người chưa biết và chưa hiểu về bảo hiểm
+- Những người chưa có thiện cảm về bảo hiểm
