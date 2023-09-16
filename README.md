@@ -15,6 +15,10 @@ Có nhiều nguyên nhân giải thích cho sự chênh lệch lớn này: do ch
 
 👥 Để mô tả một xíu về cách mình hình dung 2 nhóm người đọc mà mình hướng tới thì bạn có thể xem nhanh qua bảng dưới đây:
 
+|    | Những người chưa biết và chưa hiểu về bảo hiểm | Những người chưa có thiện cảm về bảo hiểm |
+|----|:----------------------------------------------:| -----------------------------------------:|
+
+
 <TBU cái bảng>
 
 ### Mục đích của bài viết này là gì?
