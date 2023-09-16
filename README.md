@@ -17,7 +17,11 @@ Có nhiều nguyên nhân giải thích cho sự chênh lệch lớn này: do ch
 
 |    | Những người chưa biết và chưa hiểu về bảo hiểm | Những người chưa có thiện cảm về bảo hiểm |
 |----|:----------------------------------------------:| -----------------------------------------:|
-
+|In a nutshell|Chưa biết gì, chả hiểu gì|Ghét vãi, ấn tượng xấu kinh|
+|Mức độ hiểu về bảo hiểm (trên thang 10)|Số 0 (hoặc số 0.5), nói chung là ít|Số 0 (chả biết gì, thấy người ta ghét mình cũng ghét) hoặc số 3 (biết một tí, thấy người ta ghét mình cũng ghét)|
+|Cảm xúc khi nghe tới bảo hiểm|Indifferent (Chả có cảm giác gì) 😐|Annoying (Phiền toái) 😩|
+|Kỳ vọng sau khi đọc xong tài liệu này|Surprised (by being open-minded) 😀|Annoying - 20% 😀|
+|Thời gian dành  để đọc bài viết|~20 phút|~1 tiếng (vừa đọc vừa ngắt vì ghét quá cũng không đọc liên tục được)|
 
 <TBU cái bảng>
 
