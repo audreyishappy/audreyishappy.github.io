@@ -23,8 +23,6 @@ Có nhiều nguyên nhân giải thích cho sự chênh lệch lớn này: do ch
 |Kỳ vọng sau khi đọc xong tài liệu này|Surprised (by being open-minded) 😀|Annoying - 20% 😀|
 |Thời gian dành  để đọc bài viết|~20 phút|~1 tiếng (vừa đọc vừa ngắt vì ghét quá cũng không đọc liên tục được)|
 
-<TBU cái bảng>
-
 ### Mục đích của bài viết này là gì?
 Mình viết bài này với mong muốn sau khi đọc xong, người đọc sẽ:
 - Hiểu tại sao con người lại phát minh ra bảo hiểm
@@ -40,7 +38,7 @@ Mình viết bài này với mong muốn sau khi đọc xong, người đọc s�
 ## Industry history
 Theo một số ghi chép, khoảng năm 4000-3000 trước công nguyên, tại Babylon, nơi mà dân số tăng nhanh đến mức chóng mặt, con người cần giao thương hàng hóa và đặc biệt là qua đường biển để đến được nhiều vùng đất khác. Biển khơi thời đó là một thứ gì đó vừa bao la vừa chứa hằng hà những hiểm nguy mà chẳng ai có thể mường tượng được. Để hàng hóa tới được Rome, tàu thuyền phải vượt qua muôn vàn khó khăn: bão, cướp biển,… Nghe đã thấy khiếp thế rồi thì dạn dĩ đến mấy cũng ái ngại khi nghĩ tới việc ra khơi để làm ăn.
 
-Và thế là bảo hiểm đã nhen nhóm xuất hiện dưới một hình thức gọi là bottomry (theo Britannica). Bottomry là một dạng hợp đồng hàng hải (maritime contract) giữa chủ tàu thuyền và một bên cho vay. Chủ tàu thuyền sẽ vay tiền để chi trả cho các khoản trang thiết bị hoặc sửa chữa tàu thuyền, đồng thời đảm bảo an toàn cho hàng hóa trên thuyền. Nếu trong quá trình vận chuyển, tàu thuyền và hàng hóa có vấn đề gì thì khoản tiền đã vay trước đó sẽ không được hoàn trả.
+Và thế là bảo hiểm đã nhen nhóm xuất hiện dưới một hình thức gọi là [bottomry](https://www.britannica.com/topic/bottomry) (theo Britannica). Bottomry là một dạng hợp đồng hàng hải (maritime contract) giữa chủ tàu thuyền và một bên cho vay. Chủ tàu thuyền sẽ vay tiền để chi trả cho các khoản trang thiết bị hoặc sửa chữa tàu thuyền, đồng thời đảm bảo an toàn cho hàng hóa trên thuyền. Nếu trong quá trình vận chuyển, tàu thuyền và hàng hóa có vấn đề gì thì khoản tiền đã vay trước đó sẽ không được hoàn trả.
 
 Vậy sau khi chuyến hàng hoàn tất thì sao, chuyện gì xảy ra với khoản vay đó, quỵt có sao không… Có thể mô tả ngắn gọn một hợp đồng bảo hiểm hàng hải thời đó như sau:
 
