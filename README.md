@@ -42,7 +42,8 @@ Và thế là bảo hiểm đã nhen nhóm xuất hiện dưới một hình th�
 
 Vậy sau khi chuyến hàng hoàn tất thì sao, chuyện gì xảy ra với khoản vay đó, quỵt có sao không… Có thể mô tả ngắn gọn một hợp đồng bảo hiểm hàng hải thời đó như sau:
 
-<TBU cái bảng>
+|Nếu...|🚢 Chuyến hàng thành công|💸 Chuyến hàng thành công, nhưng người vay không thể trả lại khoản vay (tất nhiên là cả lãi)|🏴‍☠️ Chuyến hàng thất bại toàn tập (hàng không đến nơi toàn vẹn, có tổn thất về người và của)
+|Thì...|Người vay trả lại khoản vay, kèm lãi. And everyone’s happy hehe|Chủ nợ xiết luôn con tàu|Khoản vay mất hiệu lực (void loan). Người mất hàng, người mất tiền, chả ai vui (trừ bọn cướp biển, maybe)
 
 Và đây chính là tiền thân của bảo hiểm. Thời nay, bảo hiểm được định nghĩa là một hoạt động mà qua đó một _cá nhân có quyền được hưởng trợ cấp bảo hiểm nhờ vào một khoản đóng góp cho mình hoặc cho bên thứ 3 trong trường hợp xảy ra rủi ro. Khoản trợ cấp này do một tổ chức trả, tổ chức này có trách nhiệm đối với toàn bộ các rủi ro và đền bù các thiệt hại._
 
