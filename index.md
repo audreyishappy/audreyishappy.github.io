@@ -75,6 +75,7 @@ Nhìn chung nhân thọ và phi nhân thọ có những điểm khác biệt đ�
 
 Xét theo tình hình chung trên thế giới, so với bảo hiểm phi nhân thọ thì bảo hiểm nhân thọ có tỷ trọng đóng góp vào GDP nhiều hơn. Theo Swiss Re, tỷ lệ thâm nhập (doanh thu phí bảo hiểm/GDP) của bảo hiểm vào GDP (7% GDP của thế giới), Đài 14.8%, VN 2.3% (nhân thọ chiếm 1.6%).
 
+
 ### Sự xuất hiện của InsurTech
 Bên cạnh bảo hiểm truyền thống, ngành bảo hiểm chào đón một thành viên mới - insurtech. Insurtech là sự kết hợp giữa “insurance” và “technology”. Insurtech hiện có thể được hiểu theo 2 nghĩa.
 
