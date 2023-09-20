@@ -109,7 +109,7 @@ Mua bảo hiểm được cỡ nửa tháng thì chị Tân bị té xe, cần b
 
 Trường hợp này thì hơi sơ suất tí không để ý là bảo hiểm anh Duy mua có thời gian chờ 30 ngày, trong khi đây mới 15 ngày chị đã bị té xe dẫn tới gãy giò nên mới không được trả. Ở đây ta học được thêm một thuật ngữ mới là ***Sự kiện bảo hiểm*** - tức là sự việc xảy ra một cách khách quan, đáp ứng được những thỏa thuận trong hợp đồng bảo hiểm và quy định của pháp luật. Trong trường hợp anh chị Duy Tân thì sự kiện bảo hiểm là chị Tân bị té xe gãy giò. Mỗi tội là không được bảo hiểm do chưa hết thời gian chờ. Giả sử chị mà bị té xe muộn hơn cỡ nửa tháng nữa là sẽ được bảo hiểm trả tiền chụp chiếu, bó bột, thuốc thang rồi đó.
 
-##Whistle
+## Whistle
 Đọc từ nãy đến giờ rồi, giờ mình cùng tổng kết lại một vài thứ:
 
 ***🎑 Tóm lại thì tại sao lại cần tới bảo hiểm?***
