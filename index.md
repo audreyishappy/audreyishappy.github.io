@@ -63,8 +63,6 @@ Bảo hiểm xuất hiện ở Việt Nam từ trước năm 1945. Ở miền B�
 
 Năm 1987, Bảo Việt - công ty bảo hiểm chuyên kinh doanh bảo hiểm phi nhân thọ (loại hình bảo hiểm cho những thiệt hại về tài sản và những tổn thất khác, hoặc trách nhiệm dân sự đối với người thứ 3) đã có đề án triển khai bảo hiểm nhân thọ nhưng mãi đến năm 1996 Công ty Bảo Việt nhân thọ mới chính thức được thành lập. Bộ hợp đồng bảo hiểm đầu tiên ở Việt Nam cũng được nghiên cứu và phát hành bởi Bảo Việt vào tháng 8/1996.
 
-TBU cái ảnh
-
 Ngành bảo hiểm tồn tại 2 loại hình bảo hiểm là nhân thọ và phi nhân thọ. Vậy chúng giống và khác nhau như thế nào?
 - Điểm giống: Đều là các sản phẩm bảo hiểm tự nguyện (người tham gia được tự do lựa chọn chương trình bảo hiểm và mức đóng phí tùy theo nhu cầu; trong khi bảo hiểm bắt buộc là loại hình bảo hiểm do nhà nước quy định và bắt buộc tham gia nhằm mục đích bảo vệ lợi ích công cộng và an toàn xã hội), do các công ty bảo hiểm phát hành và người tham gia bảo hiểm tự nguyện mua
 - Điểm khác:
