@@ -66,7 +66,6 @@ Năm 1987, Bảo Việt - công ty bảo hiểm chuyên kinh doanh bảo hiểm 
 TBU cái ảnh
 
 Ngành bảo hiểm tồn tại 2 loại hình bảo hiểm là nhân thọ và phi nhân thọ. Vậy chúng giống và khác nhau như thế nào?
-
 - Điểm giống: Đều là các sản phẩm bảo hiểm tự nguyện (người tham gia được tự do lựa chọn chương trình bảo hiểm và mức đóng phí tùy theo nhu cầu; trong khi bảo hiểm bắt buộc là loại hình bảo hiểm do nhà nước quy định và bắt buộc tham gia nhằm mục đích bảo vệ lợi ích công cộng và an toàn xã hội), do các công ty bảo hiểm phát hành và người tham gia bảo hiểm tự nguyện mua
 - Điểm khác:
 Nhìn chung nhân thọ và phi nhân thọ có những điểm khác biệt đáng chú ý sau:
@@ -74,7 +73,6 @@ Nhìn chung nhân thọ và phi nhân thọ có những điểm khác biệt đ�
 TBU cái bảng
 
 Xét theo tình hình chung trên thế giới, so với bảo hiểm phi nhân thọ thì bảo hiểm nhân thọ có tỷ trọng đóng góp vào GDP nhiều hơn. Theo Swiss Re, tỷ lệ thâm nhập (doanh thu phí bảo hiểm/GDP) của bảo hiểm vào GDP (7% GDP của thế giới), Đài 14.8%, VN 2.3% (nhân thọ chiếm 1.6%).
-
 
 ### Sự xuất hiện của InsurTech
 Bên cạnh bảo hiểm truyền thống, ngành bảo hiểm chào đón một thành viên mới - insurtech. Insurtech là sự kết hợp giữa “insurance” và “technology”. Insurtech hiện có thể được hiểu theo 2 nghĩa.
