@@ -68,7 +68,7 @@ Ngành bảo hiểm tồn tại 2 loại hình bảo hiểm là nhân thọ và 
 - Điểm khác:
 Nhìn chung nhân thọ và phi nhân thọ có những điểm khác biệt đáng chú ý sau:
 
-TBU cái bảng (hi shí)
+TBU cái bảng
 
 Xét theo tình hình chung trên thế giới, so với bảo hiểm phi nhân thọ thì bảo hiểm nhân thọ có tỷ trọng đóng góp vào GDP nhiều hơn. Theo Swiss Re, tỷ lệ thâm nhập (doanh thu phí bảo hiểm/GDP) của bảo hiểm vào GDP (7% GDP của thế giới), Đài 14.8%, VN 2.3% (nhân thọ chiếm 1.6%).
 
